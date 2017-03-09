@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Алексей Максимов](https://up.htmlacademy.ru/adaptive/10/user/371911).
-* Наставник: `Неизвестно`.
+* Наставник: `Александр Оксанич`.
 
 ---
 
